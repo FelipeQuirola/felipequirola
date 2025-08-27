@@ -1,16 +1,43 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Felipe%20Quirola%20🚀&fontSize=40&fontColor=ffffff" />
+</p>
 
-<!--
-**FelipeQuirola/felipequirola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Felipe Quirola
 
-Here are some ideas to get you started:
+🎓 Computer Science Engineering Student (7th semester, EPN – Ecuador)  
+💻 Freelancer — building **web pages** and **mobile apps**  
+🌱 Passionate about **information systems, databases, and networks**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+- 💸 [Control Cash – Mobile App](https://github.com/FelipeQuirola/control-cash-showcase)  
+  Personal finance app (Flutter/Dart) — coming soon to Google Play.  
+
+- ⚽ [Golazo Ecuador – Sports Predictions](https://github.com/FelipeQuirola/golazo-ecuador-showcase)  
+  12-match combo “cartolas” with login, payments, and automated emails.  
+
+- 🚲 [Chinos Bikes – Ticket Sales & Raffles](https://github.com/FelipeQuirola/chinos-bikes-showcase)  
+  Ticket sales and live raffles platform with payment gateway integration.  
+
+- 🌐 [Static Websites Showcase](https://github.com/FelipeQuirola/static-websites-showcase)  
+  Collection of responsive static sites (HTML, CSS, JavaScript).  
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Dart, C#, JavaScript, SQL, HTML/CSS  
+- **Frameworks/Tools:** Flutter, .NET, Hive, Keycloak, Git/GitHub  
+- **Databases:** SQL Server, MySQL, SQLite  
+- **Other:** Google Mobile Ads, Local Notifications, Responsive Web Design  
+
+---
+
+## 📊 GitHub Stats
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeQuirola&show_icons=true&theme=radical)
+
+---
+
+## 📬 Contact
+- 📧 [Email](mailto:fquirola2@gmail.com)
