@@ -34,10 +34,5 @@
 
 ---
 
-## 📊 GitHub Stats
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeQuirola&show_icons=true&theme=radical)
-
----
-
 ## 📬 Contact
 - 📧 [Email](mailto:fquirola2@gmail.com)
