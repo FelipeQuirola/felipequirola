@@ -12,6 +12,9 @@
 
 ## 🚀 Featured Projects
 
+- 🌐 [Static Websites Showcase](https://github.com/FelipeQuirola/static-websites-showcase)  
+  Collection of responsive static sites (HTML, CSS, JavaScript).  
+
 - 💸 [Control Cash – Mobile App](https://github.com/FelipeQuirola/control-cash-showcase)  
   Personal finance app (Flutter/Dart) — coming soon to Google Play.  
 
@@ -21,8 +24,6 @@
 - 🚲 [Chinos Bikes – Ticket Sales & Raffles](https://github.com/FelipeQuirola/chinos-bikes-showcase)  
   Ticket sales and live raffles platform with payment gateway integration.  
 
-- 🌐 [Static Websites Showcase](https://github.com/FelipeQuirola/static-websites-showcase)  
-  Collection of responsive static sites (HTML, CSS, JavaScript).  
 
 ---
 
