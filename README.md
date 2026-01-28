@@ -18,7 +18,7 @@
 - 💸 [Control Cash – Mobile App](https://github.com/FelipeQuirola/control-cash-showcase)  
   Personal finance app (Flutter/Dart) — coming soon to Google Play.  
 
-- ⚽ [Golazo Ecuador – Sports Predictions](https://github.com/FelipeQuirola/golazo-ecuador-showcase)  
+- ⚽ [Golazo Ecuador – Sports Predictions](https://github.com/FelipeQuirola/Golazo-Ecuador)  
   12-match combo “cartolas” with login, payments, and automated emails.  
 
 - 🚲 [Chinos Bikes – Ticket Sales & Raffles](https://github.com/FelipeQuirola/chinos-bikes-showcase)  
