@@ -12,17 +12,20 @@
 
 ## 🚀 Featured Projects
 
+> The following projects are **showcases / examples** of each type of page or application I develop.  
+> Each repository contains **multiple implementations and variations** of that project type.
+
 - 🌐 [Static Websites Showcase](https://github.com/FelipeQuirola/static-websites-showcase)  
-  Collection of responsive static sites (HTML, CSS, JavaScript).  
+  Collection of responsive static sites (HTML, CSS, JavaScript).
 
 - 💸 [Control Cash – Mobile App](https://github.com/FelipeQuirola/control-cash-showcase)  
-  Personal finance app (Flutter/Dart) — coming soon to Google Play.  
+  Personal finance app (Flutter/Dart) — coming soon to Google Play.
 
 - ⚽ [Golazo Ecuador – Sports Predictions](https://github.com/FelipeQuirola/Golazo-Ecuador)  
-  12-match combo “cartolas” with login, payments, and automated emails.  
+  12-match combo “cartolas” with login, payments, and automated emails.
 
 - 🚲 [Chinos Bikes – Ticket Sales & Raffles](https://github.com/FelipeQuirola/chinos-bikes-showcase)  
-  Ticket sales and live raffles platform with payment gateway integration.  
+  Ticket sales and live raffles platform with payment gateway integration.
 
 
 ---
