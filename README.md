@@ -1,3 +1,5 @@
+![FastDeploy Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:4a90d9&height=200&section=header&text=FastDeploy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Automatizamos%20tu%20negocio.%20Tú%20solo%20escala.&descAlignY=58&descSize=18)
+
 # Felipe Quirola — FastDeploy
 
 **Fundador · Automatizaciones con IA y Desarrollo Web · Ecuador**
@@ -43,6 +45,14 @@ usando automatizaciones inteligentes y páginas web profesionales.
 
 ---
 
+## Actividad
+
+![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeQuirola&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4a90d9&icon_color=4a90d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeQuirola&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4a90d9)
+
+---
+
 ## Hablemos
 
 ¿Querés automatizar tu negocio o necesitás un sistema a medida?
@@ -54,4 +64,4 @@ Conversemos sin compromiso.
 
 ---
 
-*Automatizamos tu negocio. Tú solo escala.*
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4a90d9,100:1a1a2e&height=120&section=footer)
