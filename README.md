@@ -1,42 +1,57 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Felipe%20Quirola%20🚀&fontSize=40&fontColor=ffffff" />
-</p>
+# Felipe Quirola — FastDeploy
 
-# 👋 Hi, I'm Felipe Quirola
-
-🎓 Computer Science Engineering Student (7th semester, EPN – Ecuador)  
-💻 Freelancer — building **web pages** and **mobile apps**  
-🌱 Passionate about **information systems, databases, and networks**  
+**Fundador · Automatizaciones con IA y Desarrollo Web · Ecuador**
 
 ---
 
-## 🚀 Featured Projects
-
-> The following projects are **showcases / examples** of each type of page or application I develop.  
-> Each repository contains **multiple implementations and variations** of that project type.
-
-- 🌐 [Static Websites Showcase](https://github.com/FelipeQuirola/static-websites-showcase)  
-  Collection of responsive static sites (HTML, CSS, JavaScript).
-
-- 💸 [Control Cash – Mobile App](https://github.com/FelipeQuirola/control-cash-showcase)  
-  Personal finance app (Flutter/Dart) — coming soon to Google Play.
-
-- ⚽ [Golazo Ecuador – Sports Predictions](https://github.com/FelipeQuirola/Golazo-Ecuador)  
-  12-match combo “cartolas” with login, payments, and automated emails.
-
-- 🚲 [Chinos Bikes – Ticket Sales & Raffles](https://github.com/FelipeQuirola/chinos-bikes-showcase)  
-  Ticket sales and live raffles platform with payment gateway integration.
-
+Somos FastDeploy — construimos sistemas que hacen trabajar a los negocios solos.
+Ayudamos a empresas ecuatorianas a eliminar tareas repetitivas,
+capturar más clientes y escalar sin contratar más personal,
+usando automatizaciones inteligentes y páginas web profesionales.
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages:** Dart, C#, JavaScript, SQL, HTML/CSS  
-- **Frameworks/Tools:** Flutter, .NET, Hive, Keycloak, Git/GitHub  
-- **Databases:** SQL Server, MySQL, SQLite  
-- **Other:** Google Mobile Ads, Local Notifications, Responsive Web Design  
+## Lo que hacemos en FastDeploy
+
+| Servicio | Qué resuelve |
+|---|---|
+| Chatbots con IA | Atención al cliente 24/7 sin intervención humana |
+| Marketing Automatizado | Seguimiento y captación de leads en piloto automático |
+| Páginas Web y Sistemas | Desde landing pages hasta CRMs a medida |
+| Gestión de Pedidos | Ventas e inventario sincronizados en tiempo real |
 
 ---
 
-## 📬 Contact
-- 📧 [Email](mailto:fquirola2@gmail.com)
+## Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+
+---
+
+## Proyectos destacados
+
+- **[crm-inmobiliario](https://github.com/FelipeQuirola/crm-inmobiliario)** — CRM completo para inmobiliarias con pipeline de ventas, gestión de leads e integración con redes sociales
+- **[hostal-casa-colonial-viena](https://github.com/FelipeQuirola/hostal-casa-colonial-viena)** — Sistema de reservas y pagos online para hostal boutique en el Centro Histórico de Quito
+- **[cosmopolitan-group-web](https://github.com/FelipeQuirola/cosmopolitan-group-web)** — Web con chat conversacional que conecta clientes con asesores financieros
+
+---
+
+## Hablemos
+
+¿Querés automatizar tu negocio o necesitás un sistema a medida?
+Conversemos sin compromiso.
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/593963751624)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fast.deploy)
+[![Web](https://img.shields.io/badge/fastdeployec.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fastdeployec.com)
+
+---
+
+*Automatizamos tu negocio. Tú solo escala.*
