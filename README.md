@@ -47,9 +47,7 @@ usando automatizaciones inteligentes y páginas web profesionales.
 
 ## Actividad
 
-![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeQuirola&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4a90d9&icon_color=4a90d9&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeQuirola&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4a90d9&cache_seconds=1800)
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipeQuirola&theme=tokyonight)](https://github.com/FelipeQuirola)
 
 ---
 
